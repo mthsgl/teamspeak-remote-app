@@ -1,0 +1,1 @@
+APP_NAME = "de.ts_rm_app"
